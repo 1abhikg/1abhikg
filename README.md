@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Abhinav Gupta
 
-<!--
-**1abhikg/1abhikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer in Progress | Building real products
 
-Here are some ideas to get you started:
+- 🔭 Currently working on a food waste reduction platform
+- 🌱 Learning Full Stack Development (Node.js, React, PostgreSQL)
+- 📍 Jamshedpur, Jharkhand, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,postgres,python,git,github,vscode)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=1abhikg&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/1abhikg)
